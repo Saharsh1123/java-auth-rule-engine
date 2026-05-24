@@ -1,0 +1,26 @@
+# Java compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Java build directories
+out/
+build/
+target/
+bin/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.iml
+
+# macOS junk
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
