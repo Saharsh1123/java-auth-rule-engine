@@ -1,3 +1,5 @@
+package authengine;
+
 class AuthDecision {
     boolean allowed;
     String reason;

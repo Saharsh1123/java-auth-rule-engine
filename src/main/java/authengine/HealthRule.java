@@ -1,3 +1,5 @@
+package authengine;
+
 class HealthRule implements AuthRule {
     public AuthDecision evaluate(Request request) {
         if (request.path.equals("/health")) {

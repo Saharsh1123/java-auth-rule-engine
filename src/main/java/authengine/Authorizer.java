@@ -1,3 +1,5 @@
+package authengine;
+
 class Authorizer {
     private static final AuthRule[] RULES = {
     new ApiKeyRule(),

@@ -1,3 +1,5 @@
+package authengine;
+
 class Request {
     HttpMethod method;
     String path;
